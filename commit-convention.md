@@ -1,7 +1,13 @@
 ```javascript
-prefix: subject
+[prefix] #이슈번호 subject
 
-ex) Feat: 로그인 기능 추가
+ex)[Feat] #2 vercel 배포
+
+
+* Merge의 경우 [Merge] 병합 주체 브랜치 <- 병합될 브랜치
+
+ex) feature/2 브랜치에서 dev 브랜치로 머지 커밋을 작성하는 경우
+[Merge] dev <- feature/2
 ```
 ## prefix
 - `Feat` : 기능 추가/수정/삭제
