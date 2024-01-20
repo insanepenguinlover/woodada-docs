@@ -20,7 +20,7 @@ ex) feature/2 브랜치에서 dev 브랜치로 머지 커밋을 작성하는 경
 - `Design` : CSS등 디자인 추가/수정
 - `Rename` : 파일 및 폴더명 수정
 - `Remove` : 파일 삭제
-- `Merge` : PR 머지
+- `Merge` : 머지 커밋 생성 시
   
 ## subject
 - 마침표 및 특수기호를 사용하지 않습니다.
